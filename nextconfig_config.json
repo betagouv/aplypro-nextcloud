@@ -1,0 +1,17 @@
+{
+  "system": {
+    "default_language": "fr",
+    "default_locale": "fr",
+    "default_phone_region": "FR",
+    "skeletondirectory": "",
+    "templatedirectory": "",
+    "appstoreenabled": false,
+    "appstoreurl": "",
+    "updatechecker": false
+  },
+  "apps": {
+    "activity": {
+      "enabled": "no"
+    }
+  }
+}
