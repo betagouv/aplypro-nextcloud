@@ -1,2 +1,3 @@
 #!/bin/sh
-echo $NGINX_USER:$NGINX_PASSWORD > app/conf/htpasswd
+mkdir config
+echo $NGINX_USER:$NGINX_PASSWORD > app/config/htpasswd
