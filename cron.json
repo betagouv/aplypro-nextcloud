@@ -1,7 +1,8 @@
 {
     "jobs": [
       {
-        "command": "*/10 * * * * sh /app/bin/cron.sh"
+        "command": "*/10 * * * * sh /app/bin/cron.sh",
+        "size": "2XL"
       }
     ]
 }
