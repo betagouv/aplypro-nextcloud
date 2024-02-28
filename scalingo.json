@@ -1,0 +1,6 @@
+{
+    "name": "Aplypro Nextcloud",
+    "scripts": {
+      "first-deploy": "/app/bin/nextcloud-install.sh"
+    }
+}
